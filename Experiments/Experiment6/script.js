@@ -43,3 +43,6 @@ resetBtn.addEventListener("click", function() {
     para.style.display = "block";
     input.value = "";
 });
+heading.onmouseover = function() {
+    heading.style.color = "blue";
+};
